@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-importexport",
-    "description" : "NodeJS module to talk to Amazon ImportExport.",
+    "description" : "AwsSum plugin for Amazon ImportExport.",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-importexport.js",
